@@ -1,11 +1,10 @@
 # 🔌 O que é um *Socket*?  
 
-Um **Socket** é uma interface de comunicação que permite a troca de dados entre processos, seja dentro de um mesmo computador ou através de redes. Ele funciona como um ponto de extremidade para a comunicação, permitindo que aplicações enviem e recebam informações de forma estruturada e independente da tecnologia de rede subjacente.  
-A figura Abaixo, apresenta um diagrama simples mostrando como cliente e servidor interagem usando *Sockets* :  
+Um **Socket** é uma interface de comunicação que permite a troca de dados entre processos, seja dentro de um mesmo computador (LocalHost) ou através de uma rede de comunicação (Processos Remotos). Ele funciona como um ponto de extremidade para a comunicação, permitindo que aplicações enviem e recebam informações de forma estruturada e independente da tecnologia de rede subjacente. A figura Abaixo, apresenta um diagrama simples mostrando como cliente e servidor interagem usando *Sockets* :  
 <div align="center">
   <img src="/IMG/Socket.png" alt="Primitivas Socket" width="50%"/>
 </div>
-
+Em resumo, conforme pode ser observado na figura acima, o socket atua como uma interface que permite aos desenvolvedores criar aplicações em rede sem a necessidade de se preocupar com os detalhes de implementação da arquitetura TCP/IP.
 ---
 
 ## 📜 Origem no UNIX  
