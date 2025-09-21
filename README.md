@@ -5,6 +5,7 @@ Um **Socket** é uma interface de comunicação que permite a troca de dados ent
   <img src="/IMG/Socket.png" alt="Primitivas Socket" width="50%"/>
 </div>
 Em resumo, conforme pode ser observado na figura acima, o socket atua como uma interface que permite aos desenvolvedores criar aplicações em rede sem a necessidade de se preocupar com os detalhes de implementação da arquitetura TCP/IP.
+
 ---
 
 ## 📜 Origem no UNIX  
