@@ -46,9 +46,10 @@ Os *Sockets* são manipulados por meio de um conjunto de **primitivas** (funçõ
 - **`sendto()` / `recvfrom()`** → Envio e recebimento em sockets sem conexão (UDP).  
 
 ### 📌 Encerramento  
-Em resumo temos a seguintes primitivas Socket:
 - **`close()`** → Fecha o *socket* e libera recursos.
-<img src="/IMG/Primitivas_Socket.png" alt="Primitivas Socket" width="30%"/>  
+
+  Em resumo temos a seguintes primitivas Socket:
+<img src="/IMG/Primitivas_Socket.png" alt="Primitivas Socket" width="50%"/>  
 ---
 
 
